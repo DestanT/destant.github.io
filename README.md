@@ -206,6 +206,7 @@ MIT
   Remember that the setup uses aggressive caching for github actions. These caches are public. If you want to remove caches, you can go to [github action workflow](https://docs.github.com/en/actions/using-workflows/manually-running-a-workflow) and manually delete the caches
 - ℹ️ **Multilingual/Non-English blogs**
   Open graph setup refers to the images displayed when sharing links. It includes excerpts and creates two columns if a featured image is available. **You can customize the title and footnote fonts for the og-image, particularly for non-English blogs.** Ensure that each URL has only one font and, if it has a weight, the weight is above 400
+- Last repo update/push: 07-01-2025
 
 If you end up using webtrotion, please consider buying me a coffee here:
 
